@@ -1,0 +1,7 @@
+C:\Users\Raul.tuyin\source\repos\Adaptar\Adaptar\bin\Debug\Adaptar.exe.config
+C:\Users\Raul.tuyin\source\repos\Adaptar\Adaptar\bin\Debug\Adaptar.exe
+C:\Users\Raul.tuyin\source\repos\Adaptar\Adaptar\bin\Debug\Adaptar.pdb
+C:\Users\Raul.tuyin\source\repos\Adaptar\Adaptar\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Raul.tuyin\source\repos\Adaptar\Adaptar\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Raul.tuyin\source\repos\Adaptar\Adaptar\obj\Debug\Adaptar.exe
+C:\Users\Raul.tuyin\source\repos\Adaptar\Adaptar\obj\Debug\Adaptar.pdb
